@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+p{
+	
+	width: 200px;
+	background-color: purple;
+	border-left-style: 5px solid green;
+	border-left-color: green;
+
+	padding : 10px;
+	font-size: 20px;
+	color: white;
+}
